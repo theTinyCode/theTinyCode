@@ -11605,7 +11605,7 @@
       "widgetId": "pokemon-card",
       "position": {
         "x": 0,
-        "y": 644
+        "y": 636
       },
       "size": {
         "width": 300,
@@ -11728,8 +11728,8 @@
       "instanceId": "widget_1790168728797",
       "widgetId": "pokemon-card",
       "position": {
-        "x": 0,
-        "y": 1078
+        "x": 250,
+        "y": 1120
       },
       "size": {
         "width": 300,
@@ -11851,8 +11851,8 @@
       "instanceId": "widget_1790168731284",
       "widgetId": "pokemon-card",
       "position": {
-        "x": 500,
-        "y": 984
+        "x": 484,
+        "y": 636
       },
       "size": {
         "width": 300,
@@ -11985,7 +11985,7 @@
   "templateId": "cyberpunk",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790169384728_9t089",
-    "updatedAt": "2026-09-23T13:16:27.356Z"
+    "revision": "rev_1790169526610_awdj8",
+    "updatedAt": "2026-09-23T13:18:49.037Z"
   }
 }
