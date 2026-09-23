@@ -24,3 +24,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theTinyCode&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thetinycode/thetinycode/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thetinycode/thetinycode/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/thetinycode/thetinycode/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
