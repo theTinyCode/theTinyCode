@@ -11975,16 +11975,17 @@
     "backgroundColor": "#060606",
     "borderColor": "#252525",
     "textColor": "#e5e5e5",
-    "accentColor": "#c5ff4a",
+    "accentColor": "#00ffff",
     "fontFamily": "'JetBrains Mono', monospace",
-    "borderRadius": 0,
+    "borderRadius": 7,
     "transparentBackground": true,
-    "templateStyle": "native"
+    "templateStyle": "native",
+    "padding": 28
   },
   "templateId": "cyberpunk",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790169339313_v5n2o",
-    "updatedAt": "2026-09-23T13:15:42.065Z"
+    "revision": "rev_1790169384728_9t089",
+    "updatedAt": "2026-09-23T13:16:27.356Z"
   }
 }
